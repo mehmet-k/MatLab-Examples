@@ -1,6 +1,4 @@
-%NOT: dosyayı 20011103.m şeklinde kaydettiğimde ve matlab sayıyla başlayan
-% dosyaları çalıştıramdığı için dosya adının en başına bir harf eklemek 
-% zorunda kaldım.
+
 clc
 
 fprintf("Please enter your function with most elements first!\n");
